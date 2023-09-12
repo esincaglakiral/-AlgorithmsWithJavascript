@@ -1,6 +1,7 @@
 import { userValidation } from "./UserValidation Challange/userValidation.js";
 import { longestWord } from "./LongestWord Challange/longestWord.js";
 import { firstFactorial } from "./FirstFactorial Challange/firstFactorial.js";
+import {firstReverse} from "./First Reverse Challange/firstReverse.js";
 
 // console.log(userValidation("u_hello_world123"));
 
