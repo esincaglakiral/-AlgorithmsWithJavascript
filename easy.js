@@ -6,4 +6,6 @@ import { firstFactorial } from "./FirstFactorial Challange/firstFactorial.js";
 
 // console.log(longestWord("fun&!! time"));
 
-console.log(firstFactorial(8));
+// console.log(firstFactorial(8));
+
+// console.log(firstReverse("merhaba"));
